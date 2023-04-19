@@ -12,7 +12,7 @@ Please find in this repository:
 3.Proof of values in sample accuracy images folder
 
 
-4.Dataset used
+4.Dataset used (https://archive.ics.uci.edu/ml/datasets/Letter+Recognition)
 
 
 5.R code file
